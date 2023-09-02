@@ -1,16 +1,14 @@
 ---
 title: Getting started
 slug: getting-started
-abstract: A guide to quickly setting up your site with this theme.
+abstract: How I got started and where.
 ---
 
-This is an example chapter page.
+My first introduction to starting Bookkeeping was through Angelica Renaud. 
 
-[Learn more about getting started with this theme.]({{ site.baseurl }}/index.html#getting-started)
+Her videos nicely organized the steps needed to start your own bookkeeping business.
 
----
-```
-This file is located at: {{ page.path }}
-```
----
-    
+- [Be a Bookkeeper! by Angelica Renaud](https://youtu.be/rpRsqXmzkKw?si=S5s81lJFHrverR9U)
+
+- [My Bookkeeping Journey - How I went from earning $800 a month to $3600 within 3 months! by Angelica Renaud & Bryce Tubbs](https://youtu.be/vHPSr0sDHQo?si=zMI4tY6LNnSIxNgQ)
+

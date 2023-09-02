@@ -1,8 +1,7 @@
 ---
-layout: page
-title: "Bookkeeping Learning Outline"
-category: post
-date: 2023-08-30 16:10:00
+title: Bookkeeping Learning Outline
+slug: learningOutline
+abstract: This is what I culled together from Bard AI
 ---
 
 ## Q1. How do I become a bookkeeper in Massachusetts? Can you provide a general outline of the knowledge I need adding approximate completion times?

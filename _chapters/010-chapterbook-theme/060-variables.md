@@ -1,70 +1,42 @@
 ---
-title: Theme variables
-slug: variables
-abstract: This theme makes a number of variables related to chapters and parts available to markdown files and Liquid templates.
+title: Veronica Wasek 7 Steps
+slug: v-wasek-7-steps
+abstract: This is a simple list of how to's from Veronica Wasek
 ---
 
-The `chapter-vars.html` helper sets a number of variables for this theme,
-which can be accessed in markdown files and Liquid templates.
-It can also render the variables for inspection.
+- [7 Steps](https://youtu.be/vypbp80ksbE?si=kdwgdLl0EoZDD2ar)
 
-Parameters:
-- `id`: The `page.id` of the chapter page for which to set variables.
-- `slug`: The `page.slug` of the chapter page for which to set variables (ignored if `id` is passed).
-- `withnum`: For performance reasons, chapter and part numbers are not computed unless `withnum` is `true`. (To compute only chapter or only part numbers, set `withnum=part` or `withnum=chapter` instead.)
-- `inspect`: If true, render the variables to the page, for debugging.
+1. Training
+   1. Self-training
+   2. Intuit Certification via Coursera(?)
+   3. Comprehenisve Training
+   4. Bookkeeper Launch
+   5. Universal Accounting
+   6. Community College - take some courses
+   7. Learn Quickbooks software - Good in US and abroad
+   8. Sign up for Quickboooks Online Accountant - Free training and Free Certification - **FREE**
+   9. Royalwise Training
+2. Leagal Stuff
+   1. Business Name, start with name (don't over think it) just get a name then change later
+   2. Get a Busnisness license
+   3. Business Straucture 
+      1. DBA, Sole Prioitor, LLC, Consult an attorney
+3. Get a TAX ID., **EIN from the IRS**
+4. Banking - get a business act 
+5. Marketing and Advertising
+   1. Get a domain name and email address
+   2. A Nice Headshot for business
+   3. Socail Media, Facebook, Insteagram, Linkedin
+   4. Wait on the website for now.
+6. Sales
+   1.  Get a free engagement letter
+   2.  Pricing strategies for bookkeepers,
+   3.  Simple pricing
+7.  What do you ask your potentioal clients? How to start?
+    1.  Listen... Tell me more... why is that an issue for you?...
+    2.  Workflows
+    3.  How to obtain docs from clients without emailing everything insecurely
+    4.  Are apps needed to integrate with QB?
+    5. Get community support, '5 minute bk', community of facebook
 
-To set variables for the current chapter:
-
-{% raw %}
-```
-{% include chapter-vars.html id=page.id withnum="true" %}
-```
-{% endraw %}
-
-{% include chapter-vars.html id=page.id withnum="true" %}
-
-Then access them like this: 
-
-{% raw %}
-```
-**Chapter number:** {{ chapter_num }}
-```
-{% endraw %}
-
-...which renders:
-**Chapter number:** {{ chapter_num }}
-
-To inspect all the variables, 
-for debugging:
-
-{% raw %}
-```
-{% include chapter-vars.html id=page.id inspect="true" withnum="true" %}
-```
-{% endraw %}
-
-...which renders this:
-
-{% include chapter-vars.html id=page.id inspect="true" withnum="true" %}
-
-To set variables for a different chapter,
-you can pass the chapter's `slug`,
-like this:
-
-{% raw %}
-```
-{% include chapter-vars.html slug="contents" withnum="true" inspect="true" %}
-```
-{% endraw %}
-
-...which renders this:
-
-{% include chapter-vars.html slug="contents" withnum="true" inspect="true" %}
-
-
----
-```
-This file is located at: {{ page.path }}
-```
----
+Get her Free Virtual Bookeepers Toolbox...

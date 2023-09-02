@@ -1,10 +1,13 @@
 ---
-title: Bookkeeping with Bard
-author: Matt C
-date: 2023-09-02
-layout: post
+title: How to get help from Brad AI
+slug: bard
+abstract: Using Bard to develop a study guide
 ---
 
+
+Bard and ChatGPT are new at this time and I wanted to use them to get job pathway together for learning. 
+
+I generated a short outline on how I went about and prepared my workflow.
 
 ### Step 1: Customize your AI chatbot
 

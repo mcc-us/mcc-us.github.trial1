@@ -19,7 +19,7 @@ This is a [Jekyll](https://jekyllrb.com/) theme based on [GitBook](https://www.g
 
 
 
-## Why tdid I choose theme?
+## Why did I choose theme?
 
 This theme may help you write a book over time,
 

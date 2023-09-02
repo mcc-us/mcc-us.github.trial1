@@ -1,10 +1,10 @@
 ---
 slug: book
-title: Demo Book
-abstract: An example book for showcasing the Jekyll Chapterbook theme.
+title: How I Became A Bookkeeper
+abstract: My notes and journey
 ---
 
-By Jason Grimes
+By Matt Curcio
 
 Copyright &copy; {{"now" | date: "%Y"}} by {{site.author}}.
 

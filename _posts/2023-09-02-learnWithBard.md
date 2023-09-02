@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Steps To Learn Any Topic With Bard AI"
-category: ref
+category: post
 date: 2023-08-30 16:00:00
 ---
 

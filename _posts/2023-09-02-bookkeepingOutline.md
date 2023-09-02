@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Bookkeeping Learning Outline"
-category: ref
+category: post
 date: 2023-08-30 16:10:00
 ---
 

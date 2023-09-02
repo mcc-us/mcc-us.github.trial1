@@ -2,6 +2,7 @@
 layout: home
 ---
 
-Greetings all,
 
-These are my notes and resources for my journey.
+These notes and resources for Matt's journey to learn bookkeeping.
+
+>mcurcio@duck.com

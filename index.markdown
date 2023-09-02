@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+## Matt Learns Bookkeeping
+
+These are my notes and resources for my learning journey.

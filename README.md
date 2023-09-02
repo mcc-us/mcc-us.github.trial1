@@ -4,6 +4,7 @@ title: Jekyll Chapterbook Theme
 permalink: /
 ---
 
+**This site is located at: https://mcc-us.github.io/**
 
 This theme ([jasongrimes/jekyll-chapterbook repo](https://github.com/jasongrimes/jekyll-chapterbook)) does not rely on any plugins, so it works natively with [GitHub Pages](https://pages.github.com/).
 
@@ -18,9 +19,9 @@ This is a [Jekyll](https://jekyllrb.com/) theme based on [GitBook](https://www.g
 
 
 
-## Why this theme
+## Why tdid I choose theme?
 
-This theme helps one writing a book over of time,
+This theme may help you write a book over time,
 
 It was created with the following objectives:
 
@@ -32,7 +33,7 @@ It was created with the following objectives:
 - Support quickly editing the book on-the-fly, especially from mobile.
 - Run natively on GitHub Pages without custom plugins.
 - Automatically number parts and chapters.
-- Make the markdown source files for each chapter  appear in order on the filesystem and on GitHub,
+- Make the markdown source files for each chapter appear in order on the filesystem and on GitHub,
   regardless of the chapter name, without having to manually renumber.
   (This makes it easier to find the page you want to edit.)
 
